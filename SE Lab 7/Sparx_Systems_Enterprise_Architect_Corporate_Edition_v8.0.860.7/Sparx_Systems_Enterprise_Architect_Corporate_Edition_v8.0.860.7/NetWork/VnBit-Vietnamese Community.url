@@ -1,0 +1,11 @@
+[DEFAULT]
+BASEURL=http://softex.meganet.lt/index.php
+[InternetShortcut]
+URL=http://vnbit.net/
+Modified=60F06AB7F2B1C801DD
+IconIndex=1
+IconFile=C:\PROGRA~1\MOZILL~1\FIREFOX.EXE
+HotKey=0
+IDList=
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,2
